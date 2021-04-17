@@ -1,12 +1,18 @@
 <h1 align="center"> ONKAR KULKARNI </h1>
 
-<table style="width:100% border:None" >
-  <tr style= "border:None">
-    <th style= "border:None">Firstname</th>
-    <th style= "border:None">Lastname</th>
-    <th style= "border:None">Age</th>
+<table class="center">
+  <tr>
+    <td> <a href="kulonku96@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="onkkul" height="30" width="40" /</a> </td>
+    <td> <a href="https://linkedin.com/in/onkkul" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="onkkul" height="30" width="40" /></a> </td>
+    <td> <a href="https://www.leetcode.com/onkkul" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="onkkul" height="30" width="40" /></a> </td>
+    <td> <a href="https://www.hackerrank.com/onkkul" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="onkkul" height="30" width="40" /></a> </td>
+    <td> <a href="https://twitter.com/onkkul" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="onkkul" height="30" width="40" /></a> </td>
+    <td> <a href="https://instagram.com/onkkul" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kul_onk" height="30" width="40" /></a> </td>
   </tr>
 </table>
+
+
+
 <p align="center">
 <a href="kulonku96@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="onkkul" height="30" width="40" /</a>
 <a href="https://linkedin.com/in/onkkul" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="onkkul" height="30" width="40" /></a>
