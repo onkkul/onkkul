@@ -2,10 +2,10 @@
 <p align="center">
 <a href="kulonku96@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="onkkul" height="30" width="40" /</a>
 <a href="https://linkedin.com/in/onkkul" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="onkkul" height="30" width="40" /></a>
-<a href="https://twitter.com/onkkul" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="onkkul" height="30" width="40" /></a>
-<a href="https://instagram.com/onkkul" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kul_onk" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/onkkul" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="onkkul" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/onkkul" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="onkkul" height="30" width="40" /></a>
+<a href="https://twitter.com/onkkul" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="onkkul" height="30" width="40" /></a>
+<a href="https://instagram.com/onkkul" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kul_onk" height="30" width="40" /></a>
 </p>
 
 I am graduate student at State University of New York, Binghamton. I love problem-solving and I thrive for continuous improvement. I like to lead people and explore new/unfamiliar technology. I have a strong analytical background with expertise in data science and machine learning. </br>
