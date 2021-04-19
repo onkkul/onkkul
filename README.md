@@ -29,7 +29,7 @@
 
 
 <h3 align="left">Languages:</h3>
-![Skills](https://github.com/onkkul/onkkul/blob/main/skills.gif)
+<img src="https://github.com/onkkul/onkkul/blob/main/skills.gif" alt="onkkul" />
 
 <h3 align="left">Tools:</h3>
 <p align="left">
