@@ -8,6 +8,11 @@
   <a href="https://instagram.com/onkkul" target="blank"><img align="center" src="logos/instagram.svg" alt="kul_onk" height="30" width="40" /> </a>
 </h1>
 
+<h1 align="right">
+  <img src="https://github.com/onkkul/onkkul/blob/main/images/about.png" alt="about" />
+</h1>
+
+
 <p>
   I am graduate student at State University of New York, Binghamton. I love problem-solving and I thrive for continuous improvement. I like to lead people and explore new/unfamiliar technology. I have a strong analytical background with expertise in data science and machine learning. </br>
   In my past, I have worked with a variety of technologies majorly related to data and database. I have experience in backend production servers(maintenance and scalability of both relational & non-relational databases), manipulating large data and algorithm optimizations. I also have experience in data modelling and data visualization for small scale industries.</br> 
@@ -28,7 +33,7 @@
 
 
 <h3 align="left">Languages:</h3>
-<img src="https://github.com/onkkul/onkkul/blob/main/images/skills.gif" alt="onkkul" />
+<img src="images/languages.gif" alt="languages" />
 
 <h3 align="left">Tools:</h3>
 <p align="left">
