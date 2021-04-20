@@ -1,11 +1,16 @@
 <h1 align="right">
-  <img src="https://github.com/onkkul/onkkul/blob/main/images/banner.gif" alt="ONKAR KULKARNI" />
-  <a href="mailto:kulonku96@gmail.com" target="blank"><img align="center" src="logos/gmail.svg" alt="onkkul" height="30" width="40" /> </a> 
+  <img src="images/banner.gif" alt="ONKAR KULKARNI" />
+  <a href="https://github.com/onkkul/onkkul#--" target="blank"><img align="center" src="images/about_nav.jpg" alt="about_nav" height="30" width="40" /> </a>
+  <img src="images/about_nav.jpg" alt="about_nav" />
+  <img src="images/portfolio_nav.jpg" alt="portfolio_nav" />
+  <img src="images/resume_nav.jpg" alt="resume_nav" />
+  <img src="images/contact_nav.jpg" alt="contact_nav" />
+  <!-- <a href="mailto:kulonku96@gmail.com" target="blank"><img align="center" src="logos/gmail.svg" alt="onkkul" height="30" width="40" /> </a> 
   <a href="https://linkedin.com/in/onkkul" target="blank"><img align="center" src="logos/linkedin.svg" alt="onkkul" height="30" width="40" /> </a>
   <a href="https://www.leetcode.com/onkkul" target="blank"><img align="center" src="logos/leetcode.svg" alt="onkkul" height="30" width="40" /> </a>
   <a href="https://www.hackerrank.com/onkkul" target="blank"><img align="center" src="logos/hackerrank.svg" alt="onkkul" height="30" width="40" /> </a>
   <a href="https://twitter.com/onkkul" target="blank"><img align="center" src="logos/twitter.svg" alt="onkkul" height="30" width="40" /> </a>
-  <a href="https://instagram.com/onkkul" target="blank"><img align="center" src="logos/instagram.svg" alt="kul_onk" height="30" width="40" /> </a>
+  <a href="https://instagram.com/onkkul" target="blank"><img align="center" src="logos/instagram.svg" alt="kul_onk" height="30" width="40" /> </a> -->
 </h1>
 
 <h1 align="right">
