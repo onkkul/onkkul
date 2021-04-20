@@ -30,10 +30,24 @@
 <h1> Portfolio </h1>
 <h3 align="left">Languages:</h3>
   <img src="images/languages.gif" alt="languages" />
+  
 <h3> Databases <h3>
+  mySQL, Oracle, PostGressSQL, SQL, SQLite, 
+  Aurora, Firebase, MongoDB
+  Hadoop, Hive, Cassandra, Redis. spark
+  
 <h3> Frameworks </h3>
+  Angular, Django, Flask, Node.js, Octave, React, Ruby on Rails, Vue.js, Wordpress, QT, bootstrap
 <h3> Tools </h3>
-<h3> Technologies </h3>
+• Android Studio • Cucumber • Docker • Git • Kubernetes • Matlab • MS Office • Linux/Unix • Tableau • Vim 
+
+<h3> Technologies & Services </h3>
+AWS,  Apache Mahout, Google Analytics, Google Cloud ML Engine,
+Microsoft Azure, Microsoft Power BI
+
+<h3> Machine Learning </h3>
+    • Inception V3       • Kera’s API          • NumPy         • OpenCV         • Pandas
+    • PyTorch         • Sci-Kit Learn        • Theano          • YOLO
 
 <h3> Git Stats </h3>
 <p align="center">
