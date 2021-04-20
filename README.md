@@ -12,7 +12,7 @@
   <a href="https://instagram.com/onkkul" target="blank"><img align="center" src="logos/instagram.svg" alt="kul_onk" height="30" width="40" /> </a> -->
 </h1>
 
-<h1 Me align="right">
+<p Me align="right">
   <table>
     <tr>
       <td>
@@ -25,30 +25,25 @@
       </td>
     </tr>
   </table>
-</h1>
-
-
-<p>
-
 </p>
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=onkkul&show_icons=true&locale=en" alt="onkkul" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=onkkul" alt="onkkul" /> </a>
-</p>
-
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=onkkul&label=Profile%20views&color=0e75b6&style=flat" alt="onkkul" />
-</p>
-
-
+<h1> Portfolio </h1>
 <h3 align="left">Languages:</h3>
-<img src="images/languages.gif" alt="languages" />
+  <img src="images/languages.gif" alt="languages" />
+<h3> Databases <h3>
+<h3> Frameworks </h3>
+<h3> Tools </h3>
+<h3> Technologies </h3>
 
-<h3 align="left">Tools:</h3>
+<h3> Git Stats </h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=onkkul&show_icons=true&locale=en" alt="gitStats" /> </br>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=onkkul" alt="gitTrophies" /> </a> </br>
+  <img src="https://komarev.com/ghpvc/?username=onkkul&label=Profile%20views&color=0e75b6&style=flat" alt="onkkul" /></br>
+</p>
+
+
+
 <p align="left">
   <a href="https://developer.android.com" target="blank"> <img src="logos/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
   <a href="https://www.arduino.cc/" target="blank"> <img src="logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
