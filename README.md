@@ -1,7 +1,7 @@
 <h1 align="center"> ONKAR KULKARNI </h1>
 
 <p align="center"> 
-  <a href="kulonku96@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="onkkul" height="30" width="40" /> </a> &nbsp;
+  <a href="mailto:kulonku96@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="onkkul" height="30" width="40" /> </a> &nbsp;
   <a href="https://linkedin.com/in/onkkul" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="onkkul" height="30" width="40" /> </a> &nbsp;
   <a href="https://www.leetcode.com/onkkul" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="onkkul" height="30" width="40" /> </a> &nbsp;
   <a href="https://www.hackerrank.com/onkkul" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="onkkul" height="30" width="40" /> </a> &nbsp;
