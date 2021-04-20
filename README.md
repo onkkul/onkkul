@@ -1,8 +1,8 @@
 <h1 align="right">
   <img src="images/banner.gif" alt="ONKAR KULKARNI" />
-  <a href="https://github.com/onkkul/onkkul#--" target="blank"><img align="center" src="images/about_nav.jpg" alt="about_nav" height="30" width="40" /> </a>
-  <a href="https://github.com/onkkul/onkkul#--" target="blank"><img align="center" src="images/portfolio_nav.jpg" alt="portfolio_nav" height="30" width="40" /> </a>
-  <a href="https://github.com/onkkul/onkkul#--" target="blank"><img align="center" src="images/resume_nav.jpg" alt="resume_nav" height="30" width="40" /> </a>
+  <a href="https://github.com/onkkul/onkkul#-Me-" target="blank"><img align="center" src="images/about_nav.jpg" alt="about_nav" height="30" width="40" /> </a>
+  <a href="https://github.com/onkkul/onkkul#-Portfolio-" target="blank"><img align="center" src="images/portfolio_nav.jpg" alt="portfolio_nav" height="30" width="40" /> </a>
+  <a href="https://github.com/onkkul/onkkul#-Me-" target="blank"><img align="center" src="images/resume_nav.jpg" alt="resume_nav" height="30" width="40" /> </a>
   <a href="https://github.com/onkkul/onkkul#--" target="blank"><img align="center" src="images/contact_nav.jpg" alt="contact_nav" height="30" width="40" /> </a>
   <!-- <a href="mailto:kulonku96@gmail.com" target="blank"><img align="center" src="logos/gmail.svg" alt="onkkul" height="30" width="40" /> </a> 
   <a href="https://linkedin.com/in/onkkul" target="blank"><img align="center" src="logos/linkedin.svg" alt="onkkul" height="30" width="40" /> </a>
@@ -12,7 +12,7 @@
   <a href="https://instagram.com/onkkul" target="blank"><img align="center" src="logos/instagram.svg" alt="kul_onk" height="30" width="40" /> </a> -->
 </h1>
 
-<p Me align="right">
+<h1> Me </h1>
   <table>
     <tr>
       <td>
