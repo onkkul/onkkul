@@ -1,10 +1,9 @@
 <h1 align="right">
   <img src="images/banner.gif" alt="ONKAR KULKARNI" />
   <a href="https://github.com/onkkul/onkkul#--" target="blank"><img align="center" src="images/about_nav.jpg" alt="about_nav" height="30" width="40" /> </a>
-  <img src="images/about_nav.jpg" alt="about_nav" />
-  <img src="images/portfolio_nav.jpg" alt="portfolio_nav" />
-  <img src="images/resume_nav.jpg" alt="resume_nav" />
-  <img src="images/contact_nav.jpg" alt="contact_nav" />
+  <a href="https://github.com/onkkul/onkkul#--" target="blank"><img align="center" src="images/portfolio_nav.jpg" alt="portfolio_nav" height="30" width="40" /> </a>
+  <a href="https://github.com/onkkul/onkkul#--" target="blank"><img align="center" src="images/resume_nav.jpg" alt="resume_nav" height="30" width="40" /> </a>
+  <a href="https://github.com/onkkul/onkkul#--" target="blank"><img align="center" src="images/contact_nav.jpg" alt="contact_nav" height="30" width="40" /> </a>
   <!-- <a href="mailto:kulonku96@gmail.com" target="blank"><img align="center" src="logos/gmail.svg" alt="onkkul" height="30" width="40" /> </a> 
   <a href="https://linkedin.com/in/onkkul" target="blank"><img align="center" src="logos/linkedin.svg" alt="onkkul" height="30" width="40" /> </a>
   <a href="https://www.leetcode.com/onkkul" target="blank"><img align="center" src="logos/leetcode.svg" alt="onkkul" height="30" width="40" /> </a>
@@ -13,15 +12,25 @@
   <a href="https://instagram.com/onkkul" target="blank"><img align="center" src="logos/instagram.svg" alt="kul_onk" height="30" width="40" /> </a> -->
 </h1>
 
-<h1 align="right">
-  <img src="https://github.com/onkkul/onkkul/blob/main/images/about.png" alt="about" />
+<h1 Me align="right">
+  <table>
+    <tr>
+      <td>
+        <img src="images/me.jpg" alt="me" />
+      </td>
+      <td>
+        I am graduate student at State University of New York, Binghamton. I love problem-solving and I thrive for continuous improvement. I like to lead people and explore new/unfamiliar technology. I have a strong analytical background with expertise in data science and machine learning. </br>
+        In my past, I have worked with a variety of technologies majorly related to data and database. I have experience in backend production servers(maintenance and scalability of both relational & non-relational databases), manipulating large data and algorithm optimizations. I also have experience in data modelling and data visualization for small scale industries.</br> 
+        With passion for algorithms and data, I am actively looking for opportunities in Software Development and/or Data Science.</br>
+      </td>
+    </tr>
+  </table>
+  
 </h1>
 
 
 <p>
-  I am graduate student at State University of New York, Binghamton. I love problem-solving and I thrive for continuous improvement. I like to lead people and explore new/unfamiliar technology. I have a strong analytical background with expertise in data science and machine learning. </br>
-  In my past, I have worked with a variety of technologies majorly related to data and database. I have experience in backend production servers(maintenance and scalability of both relational & non-relational databases), manipulating large data and algorithm optimizations. I also have experience in data modelling and data visualization for small scale industries.</br> 
-  With passion for algorithms and data, I am actively looking for opportunities in Software Development and/or Data Science.</br>
+
 </p>
 
 <p align="center">
