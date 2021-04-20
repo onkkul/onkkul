@@ -16,16 +16,15 @@
   <table>
     <tr>
       <td>
-        <img src="images/me.jpg" alt="me" />
-      </td>
-      <td>
         I am graduate student at State University of New York, Binghamton. I love problem-solving and I thrive for continuous improvement. I like to lead people and explore new/unfamiliar technology. I have a strong analytical background with expertise in data science and machine learning. </br>
         In my past, I have worked with a variety of technologies majorly related to data and database. I have experience in backend production servers(maintenance and scalability of both relational & non-relational databases), manipulating large data and algorithm optimizations. I also have experience in data modelling and data visualization for small scale industries.</br> 
         With passion for algorithms and data, I am actively looking for opportunities in Software Development and/or Data Science.</br>
       </td>
+      <td>
+        <img src="images/me.jpg" alt="me"/>
+      </td>
     </tr>
   </table>
-  
 </h1>
 
 
