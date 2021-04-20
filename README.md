@@ -1,5 +1,7 @@
-<h1 align="center"> ONKAR KULKARNI </h1>
+<img src="https://github.com/onkkul/onkkul/blob/main/images/banner.gif" alt="onkkul" />
 
+
+<h1 align="center"> ONKAR KULKARNI </h1>
 <p align="center"> 
   <a href="mailto:kulonku96@gmail.com" target="blank"><img align="center" src="logos/gmail.svg" alt="onkkul" height="30" width="40" /> </a> 
   <a href="https://linkedin.com/in/onkkul" target="blank"><img align="center" src="logos/linkedin.svg" alt="onkkul" height="30" width="40" /> </a>
@@ -29,7 +31,7 @@
 
 
 <h3 align="left">Languages:</h3>
-<img src="https://github.com/onkkul/onkkul/blob/main/skills.gif" alt="onkkul" />
+<img src="https://github.com/onkkul/onkkul/blob/main/images/skills.gif" alt="onkkul" />
 
 <h3 align="left">Tools:</h3>
 <p align="left">
