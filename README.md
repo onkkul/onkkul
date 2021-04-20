@@ -1,15 +1,12 @@
-<img src="https://github.com/onkkul/onkkul/blob/main/images/banner.gif" alt="onkkul" />
-
-
-<h1 align="center"> ONKAR KULKARNI </h1>
-<p align="center"> 
+<h1 align="right">
+  <img src="https://github.com/onkkul/onkkul/blob/main/images/banner.gif" alt="ONKAR KULKARNI" />
   <a href="mailto:kulonku96@gmail.com" target="blank"><img align="center" src="logos/gmail.svg" alt="onkkul" height="30" width="40" /> </a> 
   <a href="https://linkedin.com/in/onkkul" target="blank"><img align="center" src="logos/linkedin.svg" alt="onkkul" height="30" width="40" /> </a>
   <a href="https://www.leetcode.com/onkkul" target="blank"><img align="center" src="logos/leetcode.svg" alt="onkkul" height="30" width="40" /> </a>
   <a href="https://www.hackerrank.com/onkkul" target="blank"><img align="center" src="logos/hackerrank.svg" alt="onkkul" height="30" width="40" /> </a>
   <a href="https://twitter.com/onkkul" target="blank"><img align="center" src="logos/twitter.svg" alt="onkkul" height="30" width="40" /> </a>
   <a href="https://instagram.com/onkkul" target="blank"><img align="center" src="logos/instagram.svg" alt="kul_onk" height="30" width="40" /> </a>
-</p>
+</h1>
 
 <p>
   I am graduate student at State University of New York, Binghamton. I love problem-solving and I thrive for continuous improvement. I like to lead people and explore new/unfamiliar technology. I have a strong analytical background with expertise in data science and machine learning. </br>
