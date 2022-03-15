@@ -181,6 +181,5 @@ Inception V3 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;• Kera’s API &emsp;&emsp;&e
   • Chair, Association for Computing Machinery (ACM) Students’ Chapter at D. Y. Patil College of Engineering, Pune </br>
 <h6 align="center"> 
   ● <a href="kulonku96@gmail.com">email</a> 
-  ● <a href="+1-607-304-0709">+1-607-304-0709 </a> 
   ● <a href="www.linkedin.com/in/onkkul/"> linkedIn </a> 
 </h6>
